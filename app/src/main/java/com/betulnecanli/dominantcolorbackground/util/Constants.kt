@@ -1,3 +1,6 @@
 package com.betulnecanli.dominantcolorbackground.util
 
-const val URL = "https://raw.githubusercontent.com/betulnecanli/DominantColorBackground/master/source/artists.txt"
+object Constants{
+    const val URL = "https://raw.githubusercontent.com/betulnecanli/DominantColorBackground/master/source/artists.txt"
+}
+
