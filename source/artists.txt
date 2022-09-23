@@ -1,0 +1,5 @@
+{[{"name":"Billie Eilish","url":"https://raw.githubusercontent.com/betulnecanli/DominantColorBackground/master/source/biliie.png"},
+{"name":"Hadise","url":"https://raw.githubusercontent.com/betulnecanli/DominantColorBackground/master/source/hadise.png"},
+{"name":"Najwa Farouk","url":"https://raw.githubusercontent.com/betulnecanli/DominantColorBackground/master/source/najwa.png"},
+{"name":"Selena Gomez","url":"https://raw.githubusercontent.com/betulnecanli/DominantColorBackground/master/source/selena.png"},
+{"name":"Tamino","url":"https://raw.githubusercontent.com/betulnecanli/DominantColorBackground/master/source/tamino.png"}]}
